@@ -134,26 +134,24 @@ http://localhost:8000/docs
 ## Screenshots
 
 ### Dashboard
-
-**[ Add Screenshot Here ]**
+<p align="center">
+  <img src="outputs/1.png" width="100%">
+</p>
 
 ### Create Diagram
-
-**[ Add Screenshot Here ]**
-
-### Generated UML Diagram
-
-**[ Add Screenshot Here ]**
-
-### Mermaid Editor
-
-**[ Add Screenshot Here ]**
-
+<p align="center">
+  <img src="outputs/2.png" width="100%">
+</p>
 ### History
+<p align="center">
+  <img src="outputs/3.png" width="100%">
+</p>
 
-**[ Add Screenshot Here ]**
+### Settings
+<p align="center">
+  <img src="outputs/4.png" width="100%">
+</p>
 
-## Example
 
 **Input:**
 
