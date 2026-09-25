@@ -176,14 +176,6 @@ Mermaid UML Code
 Generated Diagram
 ```
 
-## Future Scope
-
-* GitHub repository integration
-* User authentication
-* Collaborative editing
-* Version history
-* ER & Deployment diagrams
-* Combined project PDF reports
 
 ## Author
 
