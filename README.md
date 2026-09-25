@@ -142,6 +142,7 @@ http://localhost:8000/docs
 <p align="center">
   <img src="Outputs/2.png" width="100%">
 </p>
+
 ### History
 <p align="center">
   <img src="Outputs/3.png" width="100%">
@@ -153,26 +154,7 @@ http://localhost:8000/docs
 </p>
 
 
-**Input:**
 
-```text
-Food Delivery System
-
-Customers can register, browse restaurants,
-add food to cart, place orders and make payments.
-```
-
-**Output:**
-
-```text
-Requirements
-     ↓
-Google Gemini
-     ↓
-Mermaid UML Code
-     ↓
-Generated Diagram
-```
 
 
 ## Author
