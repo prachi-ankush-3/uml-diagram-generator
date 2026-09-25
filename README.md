@@ -135,21 +135,21 @@ http://localhost:8000/docs
 
 ### Dashboard
 <p align="center">
-  <img src="outputs/1.png" width="100%">
+  <img src="Outputs/1.png" width="100%">
 </p>
 
 ### Create Diagram
 <p align="center">
-  <img src="outputs/2.png" width="100%">
+  <img src="Outputs/2.png" width="100%">
 </p>
 ### History
 <p align="center">
-  <img src="outputs/3.png" width="100%">
+  <img src="Outputs/3.png" width="100%">
 </p>
 
 ### Settings
 <p align="center">
-  <img src="outputs/4.png" width="100%">
+  <img src="Outputs/4.png" width="100%">
 </p>
 
 
