@@ -154,6 +154,9 @@ http://localhost:8000/docs
 </p>
 
 
+## 🚀 Live Demo
+
+🔗 **[session-hijack-demo.vercel.app](https://uml-diagram-generator-ten.vercel.app/)**
 
 
 
