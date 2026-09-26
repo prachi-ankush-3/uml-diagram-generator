@@ -156,7 +156,7 @@ http://localhost:8000/docs
 
 ## 🚀 Live Demo
 
-🔗 **[session-hijack-demo.vercel.app](https://uml-diagram-generator-ten.vercel.app/)**
+🔗 **[uml-diagram-generator](https://uml-diagram-generator-ten.vercel.app/)**
 
 
 
