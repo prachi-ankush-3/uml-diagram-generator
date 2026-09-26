@@ -2,6 +2,19 @@
 
 AI-assisted full-stack application that converts software requirements or source code into UML diagrams using **Google Gemini** and **Mermaid.js**.
 
+---
+
+## 🌐 Live Demo
+
+> 🚀 **Deployed Project:**
+
+
+🔗 **Live Demo:** https://uml-diagram-generator-ten.vercel.app/
+
+
+
+---
+
 ## Features
 
 * 🤖 AI-generated UML diagrams
@@ -154,9 +167,6 @@ http://localhost:8000/docs
 </p>
 
 
-## 🚀 Live Demo
-
-🔗 **[uml-diagram-generator](https://uml-diagram-generator-ten.vercel.app/)**
 
 
 
